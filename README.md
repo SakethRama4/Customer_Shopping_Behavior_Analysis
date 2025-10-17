@@ -59,40 +59,14 @@ Answered key business questions, including:
 - **Age group targeting** revealed key revenue contributors  
 - Loyalty and subscription behaviors provided actionable marketing insights.
 
-## 🧭 How to Run the Project
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/customer-shopping-behavior.git
-   cd customer-shopping-behavior
-   ```
-
-2. **Install required dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the data cleaning script**
-   ```bash
-   python scripts/data_preprocessing.py
-   ```
-
-4. **Load cleaned data into MySQL**
-   - Update `db_config.json` with your credentials
-   - Run `scripts/load_to_mysql.py`
-
-5. **Execute SQL queries**
-   - Open `sql/analysis_queries.sql` to explore insights
-
-6. **View Power BI Dashboard**
-   - Open `dashboard/ShoppingBehaviorDashboard.pbix` in Power BI Desktop
-
 ---
 
 ## 🧑‍💻 Author
-**Saketh** – Data Analytst  
-🔗 [LinkedIn](#) | 📧 [Email](#)
+**Saketh Rama** – Data Analyst
+🔗 [LinkedIn](https://www.linkedin.com/in/saketh-rama/) | 📧 [Email](mailto:ramasaketh4@gmail.com)
+
 
 ---
 
-✅ *This project demonstrates end-to-end data analysis — from raw data cleaning to insight visualization — ideal for data analyst portfolios.*
+✅ *This project demonstrates end-to-end data analysis — from raw data cleaning to insight visualization.*
 
