@@ -17,7 +17,7 @@ The goal is to uncover **spending patterns**, **customer segments**, **product p
 - **Python** (Data Cleaning & Feature Engineering)  
 - **MySQL** (Data Analysis with SQL Queries)  
 - **Power BI** (Interactive Dashboard & Visualization)  
-- **Pandas**, **NumPy**, **Matplotlib**, **Seaborn** (EDA & Visualization)
+- **Pandas**, **NumPy** (EDA)
 
 ## 🪜 Steps & Methodology
 
@@ -47,22 +47,21 @@ Answered key business questions, including:
 
 ### 3. Dashboard (Power BI)
 - Designed a **fully interactive Power BI dashboard** to visualize:
-  - Revenue trends and segmentation
+  - Revenue, Sales trends and segmentation
   - Product performance
   - Subscription and shipping behavior
-  - Customer loyalty insights
 
 ## 📈 Results & Insights
 - **High-spending segments** identified among express shipping users and subscribers  
 - **Top-rated products** aligned closely with best-sellers  
 - **Discount usage patterns** highlighted potential margin optimization areas  
 - **Age group targeting** revealed key revenue contributors  
-- Loyalty and subscription behaviors provided actionable marketing insights.
 
 ---
 
 ## 🧑‍💻 Author
 **Saketh Rama** – Data Analyst
+
 🔗 [LinkedIn](https://www.linkedin.com/in/saketh-rama/) | 📧 [Email](mailto:ramasaketh4@gmail.com)
 
 
